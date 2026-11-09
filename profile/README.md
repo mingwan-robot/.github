@@ -5,16 +5,16 @@ G5 课程用情景模拟网站：选楼层 / 时段 / 机器人组合，观察�
 
 ## 👉 学生入口 / Student access
 
-**https://mingwan-robot.github.io/cohab/**
+**https://mingwan-robot.github.io/**
 
 手机、电脑浏览器直接打开即可，无需安装、无需登录。第一次打开会弹出 3 步引导。
 
 | 用途 / Purpose | 链接 / Link |
 |---|---|
-| 普通练习 / Normal | https://mingwan-robot.github.io/cohab/ |
-| 机房只读模式 / Read-only | https://mingwan-robot.github.io/cohab/#ro=1 |
-| 打开即播放一整天 / Autoplay | https://mingwan-robot.github.io/cohab/#play=1 |
-| 直接看 2F·午餐·提案对比 / Deep link | https://mingwan-robot.github.io/cohab/#floor=2F&slot=T5&variant=B&view=compare |
+| 普通练习 / Normal | https://mingwan-robot.github.io/ |
+| 机房只读模式 / Read-only | https://mingwan-robot.github.io/#ro=1 |
+| 打开即播放一整天 / Autoplay | https://mingwan-robot.github.io/#play=1 |
+| 直接看 2F·午餐·提案对比 / Deep link | https://mingwan-robot.github.io/#floor=2F&slot=T5&variant=B&view=compare |
 
 备用地址 / Backups：<https://captainlisland-cloud.github.io/mingwan-robot/> · <https://captainlisland-cloud.github.io/>
 
@@ -35,7 +35,8 @@ G5 课程用情景模拟网站：选楼层 / 时段 / 机器人组合，观察�
 
 ## 仓库 / Repositories
 
-- [`cohab`](https://github.com/mingwan-robot/cohab) — 站点本体（纯静态，GitHub Pages: `main` / root）
+- [`mingwan-robot.github.io`](https://github.com/mingwan-robot/mingwan-robot.github.io) — 学生入口站点（纯静态，Pages: `main` / root）
+- [`cohab`](https://github.com/mingwan-robot/cohab) — 同一份站点的备用副本
 - [`.github`](https://github.com/mingwan-robot/.github) — 本组织主页说明
 
 ---
